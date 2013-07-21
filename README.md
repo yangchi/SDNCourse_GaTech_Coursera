@@ -7,4 +7,4 @@ GaTech SDN Course assignments
 
 assignment1 - Week 3 programming assignment: Create Custom Topology
 
-assignment2 - Week 3 programming assignment: Create a full functional layer-2 firewall application
+assignment2 - Week 4 programming assignment: Create a full functional layer-2 firewall application
